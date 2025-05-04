@@ -10,6 +10,6 @@ $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
-# Answer
-<img title="a title" alt="Alt text" src="C:\Users\Athom\OneDrive\Pictures\Screenshots\Screenshot 2025-05-03 212609.png">
+# Answer is in the Attached Screenshot!!!
+
 
