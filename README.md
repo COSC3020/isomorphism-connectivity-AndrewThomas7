@@ -16,5 +16,6 @@ otherwise. I am aware that plagiarism carries severe penalties and that if plagi
 suspected, charges may be filed against me without prior notice.”-Andrew Thomas
 
 
-# Answer is in the Attached Screenshot!!!
+# Answer
 
+![Answer](Screenshot%202025-05-03%20212609.png)
